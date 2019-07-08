@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="Tron/fichier JAR.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/contract/JAR.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <folder path="/showboard/target"/>
+        <file path="/contract/.gitignore"/>
+        <file path="/contract/.project"/>
+        <folder path="/showboard/src"/>
+        <file path="/contract/pom.xml"/>
+        <javaElement handleIdentifier="=model/src\/test\/java"/>
+        <javaElement handleIdentifier="=showboard/src\/main\/java"/>
+        <javaElement handleIdentifier="=contract/src\/main\/java"/>
+        <file path="/contract/.classpath"/>
+        <file path="/model/.gitignore"/>
+        <folder path="/model/target"/>
+        <file path="/view/.gitignore"/>
+        <folder path="/controller/target"/>
+        <folder path="/view/target"/>
+        <file path="/main/.gitignore"/>
+        <folder path="/main/target"/>
+        <file path="/showboard/.gitignore"/>
+        <file path="/main/.classpath"/>
+        <file path="/showboard/.project"/>
+        <javaElement handleIdentifier="=controller/src\/test\/java"/>
+        <folder path="/contract/target"/>
+        <file path="/showboard/pom.xml"/>
+        <javaElement handleIdentifier="=main/src\/main\/java"/>
+        <folder path="/contract/src"/>
+        <file path="/showboard/.classpath"/>
+        <file path="/view/diagr.ucls"/>
+        <file path="/controller/.gitignore"/>
+        <file path="/controller/.project"/>
+        <file path="/model/.project"/>
+        <file path="/model/pom.xml"/>
+        <javaElement handleIdentifier="=controller/src\/main\/java"/>
+        <file path="/view/.project"/>
+        <folder path="/view/doc"/>
+        <file path="/controller/pom.xml"/>
+        <folder path="/controller/src"/>
+        <javaElement handleIdentifier="=model/src\/main\/java"/>
+        <folder path="/model/src"/>
+        <file path="/view/pom.xml"/>
+        <folder path="/view/src"/>
+        <file path="/main/dependency-reduced-pom.xml"/>
+        <file path="/model/.classpath"/>
+        <file path="/main/.project"/>
+        <javaElement handleIdentifier="=view/src\/main\/java"/>
+        <file path="/view/.classpath"/>
+        <file path="/controller/.classpath"/>
+        <file path="/main/pom.xml"/>
+        <folder path="/main/src"/>
+    </selectedElements>
+</jardesc>
